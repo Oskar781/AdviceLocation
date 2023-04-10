@@ -12,4 +12,5 @@ npm start
 ```
 
 
+![RozliczMniegif](https://user-images.githubusercontent.com/97236622/230996758-1e0c588f-38fe-403c-917b-eb1a80d27bdb.gif)
 
