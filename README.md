@@ -42,13 +42,17 @@ In the app you can:
 1. Get a free API Key at [https://console.cloud.google.com/google/maps-apis](https://console.cloud.google.com/google/maps-apis)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Oskar781/AdviceLocation
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Start expo
+   ```sh
+   expo start
+   ```
+5. Enter your API in `setLocation.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -62,9 +66,9 @@ In the app you can:
 <!-- CONTACT -->
 ## Contact
 
-Mail : ( oskarpianka08@gmail.com) - oskarpianka08@gmail.com
+Mail : oskarpianka08@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Oskar781/AdviceLocation](https://github.com/Oskar781/AdviceLocation)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
