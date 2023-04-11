@@ -54,7 +54,7 @@ In the app you can:
    ```
 5. Enter your API in `setLocation.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const GOOGLE_API_KEY = 'ENTER YOUR API';
    ```
 
 <img width="1415" alt="Screenshot 2023-04-11 at 12 24 34" src="https://user-images.githubusercontent.com/97236622/231132819-0bb8e886-2558-48be-a763-5898bf4df999.png">
@@ -69,6 +69,8 @@ In the app you can:
 Mail : oskarpianka08@gmail.com
 
 Project Link: [https://github.com/Oskar781/AdviceLocation](https://github.com/Oskar781/AdviceLocation)
+
+Linkedin Link: [https://www.linkedin.com/in/oskar-pianka-b04053260/](https://www.linkedin.com/in/oskar-pianka-b04053260/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
