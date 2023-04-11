@@ -7,9 +7,10 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
+<div align="center">
 
 ![lowAdvice (1)](https://user-images.githubusercontent.com/97236622/231132186-615e3409-eb46-40e7-b4df-3eb5484c3a2a.gif)
-
+</div>
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
