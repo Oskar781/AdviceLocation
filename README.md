@@ -8,7 +8,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-https://github.com/Oskar781/AdviceLocation/blob/main/Media_230411_113037%20(1).gif
+![lowAdvice (1)](https://user-images.githubusercontent.com/97236622/231132186-615e3409-eb46-40e7-b4df-3eb5484c3a2a.gif)
 
 <!-- PROJECT SHIELDS -->
 <!--
